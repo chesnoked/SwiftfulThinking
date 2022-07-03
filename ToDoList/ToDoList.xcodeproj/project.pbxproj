@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9656BAF928716A44000049E6 /* NoItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9656BAF828716A44000049E6 /* NoItemsView.swift */; };
+		9656BAFB287182D6000049E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9656BAFA287182D6000049E6 /* LaunchScreen.storyboard */; };
 		967B1DB6287084F500BA4A16 /* ToDoListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967B1DB5287084F500BA4A16 /* ToDoListApp.swift */; };
 		967B1DBA287084F900BA4A16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 967B1DB9287084F900BA4A16 /* Assets.xcassets */; };
 		967B1DBD287084F900BA4A16 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 967B1DBC287084F900BA4A16 /* Preview Assets.xcassets */; };
@@ -20,7 +21,8 @@
 
 /* Begin PBXFileReference section */
 		9656BAF828716A44000049E6 /* NoItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoItemsView.swift; sourceTree = "<group>"; };
-		967B1DB2287084F500BA4A16 /* ToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9656BAFA287182D6000049E6 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		967B1DB2287084F500BA4A16 /* Do Stuff.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Do Stuff.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		967B1DB5287084F500BA4A16 /* ToDoListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListApp.swift; sourceTree = "<group>"; };
 		967B1DB9287084F900BA4A16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		967B1DBC287084F900BA4A16 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -53,7 +55,7 @@
 		967B1DB3287084F500BA4A16 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				967B1DB2287084F500BA4A16 /* ToDoList.app */,
+				967B1DB2287084F500BA4A16 /* Do Stuff.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -86,6 +88,7 @@
 				967B1DC6287087E300BA4A16 /* ListRowView.swift */,
 				967B1DC828708A9900BA4A16 /* AddView.swift */,
 				9656BAF828716A44000049E6 /* NoItemsView.swift */,
+				9656BAFA287182D6000049E6 /* LaunchScreen.storyboard */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -123,7 +126,7 @@
 			);
 			name = ToDoList;
 			productName = ToDoList;
-			productReference = 967B1DB2287084F500BA4A16 /* ToDoList.app */;
+			productReference = 967B1DB2287084F500BA4A16 /* Do Stuff.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -164,6 +167,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9656BAFB287182D6000049E6 /* LaunchScreen.storyboard in Resources */,
 				967B1DBD287084F900BA4A16 /* Preview Assets.xcassets in Resources */,
 				967B1DBA287084F900BA4A16 /* Assets.xcassets in Resources */,
 			);
@@ -316,6 +320,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -324,7 +329,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = TerraSky.ToDoList;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Do Stuff";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -344,6 +349,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -352,7 +358,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = TerraSky.ToDoList;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Do Stuff";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

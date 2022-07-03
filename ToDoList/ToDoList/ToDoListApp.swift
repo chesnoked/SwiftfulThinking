@@ -27,6 +27,9 @@ struct ToDoListApp: App {
             NavigationView {
                 ListView()
             }
+            // Adapting to Landscape mode
+            .navigationViewStyle(StackNavigationViewStyle())
+            //
             .environmentObject(listViewModel)
         }
     }

@@ -17,7 +17,7 @@ struct MyCustomModel: Hashable {
     }
 }
 
-struct HashableBootcamp: View {
+struct HashableBootcamp_12: View {
     
     let data: [MyCustomModel] = [
         MyCustomModel(title: "ONE"),
@@ -42,6 +42,6 @@ struct HashableBootcamp: View {
 
 struct HashableBootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        HashableBootcamp()
+        HashableBootcamp_12()
     }
 }

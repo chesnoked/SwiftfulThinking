@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct MaskBootcamp: View {
+struct MaskBootcamp_8: View {
     
     @State var rating: Int = 3
     
@@ -55,6 +55,6 @@ struct MaskBootcamp: View {
 
 struct MaskBootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        MaskBootcamp()
+        MaskBootcamp_8()
     }
 }

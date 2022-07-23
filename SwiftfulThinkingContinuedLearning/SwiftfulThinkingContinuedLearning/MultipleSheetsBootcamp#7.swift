@@ -16,7 +16,7 @@ struct RandomModel: Identifiable {
 // 2 - use multiple .sheets
 // 3 - use $item
 
-struct MultipleSheetsBootcamp: View {
+struct MultipleSheetsBootcamp_7: View {
     
     @State var selectedModel: RandomModel? = nil
     
@@ -48,6 +48,6 @@ struct NextScreen: View {
 
 struct MultipleSheetsBootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        MultipleSheetsBootcamp()
+        MultipleSheetsBootcamp_7()
     }
 }

@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct GeometryReaderBootcamp: View {
+struct GeometryReaderBootcamp_6: View {
     
     func getPercentage(geo: GeometryProxy) -> Double {
         let maxDistance = UIScreen.main.bounds.width / 2
@@ -48,7 +48,7 @@ struct GeometryReaderBootcamp: View {
 
 struct GeometryReaderBootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        GeometryReaderBootcamp()
+        GeometryReaderBootcamp_6()
             .previewInterfaceOrientation(.portraitUpsideDown)
     }
 }

@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct DragGestureBootcamp1: View {
+struct DragGestureBootcamp_4_1: View {
     
     @State var offset: CGSize = .zero
     
@@ -60,6 +60,6 @@ struct DragGestureBootcamp1: View {
 
 struct DragGestureBootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        DragGestureBootcamp1()
+        DragGestureBootcamp_4_1()
     }
 }

@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct RotationGestureBootcamp: View {
+struct RotationGestureBootcamp_3: View {
     
     @State var angle: Angle = Angle(degrees: 0)
     
@@ -35,6 +35,6 @@ struct RotationGestureBootcamp: View {
 
 struct RotationGestureBootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        RotationGestureBootcamp()
+        RotationGestureBootcamp_3()
     }
 }

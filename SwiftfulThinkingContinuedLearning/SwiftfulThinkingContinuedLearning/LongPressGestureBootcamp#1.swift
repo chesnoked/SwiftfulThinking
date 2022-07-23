@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct LongPressGestureBootcamp: View {
+struct LongPressGestureBootcamp_1: View {
     
     @State var isComplete: Bool = false
     @State var isSuccess: Bool = false
@@ -85,6 +85,6 @@ struct LongPressGestureBootcamp: View {
 
 struct LongPressGestureBootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        LongPressGestureBootcamp()
+        LongPressGestureBootcamp_1()
     }
 }

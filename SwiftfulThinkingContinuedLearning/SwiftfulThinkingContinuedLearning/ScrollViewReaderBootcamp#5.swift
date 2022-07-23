@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ScrollViewReaderBootcamp: View {
+struct ScrollViewReaderBootcamp_5: View {
     
     @State var scrollToIndex: Int = 0
     @State var textFieldText: String = ""
@@ -59,6 +59,6 @@ struct ScrollViewReaderBootcamp: View {
 
 struct ScrollViewReaderBootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        ScrollViewReaderBootcamp()
+        ScrollViewReaderBootcamp_5()
     }
 }

@@ -21,7 +21,7 @@ class HapticManager {
     }
 }
 
-struct HapticsBootcamp: View {
+struct HapticsBootcamp_10: View {
     var body: some View {
         VStack(spacing: 20) {
             Button("success") { HapticManager.instance.notification(type: .success) }
@@ -39,6 +39,6 @@ struct HapticsBootcamp: View {
 
 struct HapticsBootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        HapticsBootcamp()
+        HapticsBootcamp_10()
     }
 }

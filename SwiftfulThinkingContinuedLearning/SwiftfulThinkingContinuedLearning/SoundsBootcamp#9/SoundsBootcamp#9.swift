@@ -38,7 +38,7 @@ class SoundManager {
 //    //
 //}
 
-struct SoundsBootcamp: View {
+struct SoundsBootcamp_9: View {
     
     //@StateObject var soundManager = SoundManager()
     
@@ -56,6 +56,6 @@ struct SoundsBootcamp: View {
 
 struct SoundsBootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        SoundsBootcamp()
+        SoundsBootcamp_9()
     }
 }

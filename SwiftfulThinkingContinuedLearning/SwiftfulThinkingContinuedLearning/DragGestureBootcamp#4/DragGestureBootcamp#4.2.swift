@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct DragGestureBootcamp2: View {
+struct DragGestureBootcamp_4_2: View {
     
     @State var startingOffsetY: CGFloat = UIScreen.main.bounds.height * 0.85
     @State var currentDragOffsetY: CGFloat = 0
@@ -47,7 +47,7 @@ struct DragGestureBootcamp2: View {
 
 struct DragGestureBootcamp2_Previews: PreviewProvider {
     static var previews: some View {
-        DragGestureBootcamp2()
+        DragGestureBootcamp_4_2()
     }
 }
 

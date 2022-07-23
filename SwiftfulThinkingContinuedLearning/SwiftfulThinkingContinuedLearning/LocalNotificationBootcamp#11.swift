@@ -81,7 +81,7 @@ class NotifitaionManager {
     }
 }
 
-struct LocalNotificationBootcamp: View {
+struct LocalNotificationBootcamp_11: View {
     var body: some View {
         VStack(spacing: 40) {
             Button("Request permission") {
@@ -102,6 +102,6 @@ struct LocalNotificationBootcamp: View {
 
 struct LocalNotificationBootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        LocalNotificationBootcamp()
+        LocalNotificationBootcamp_11()
     }
 }

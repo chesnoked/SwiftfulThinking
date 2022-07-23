@@ -96,7 +96,7 @@ class ArrayModificationViewModel: ObservableObject {
     }
 }
 
-struct ArraysBootcamp: View {
+struct ArraysBootcamp_14: View {
     
     @StateObject var vm = ArrayModificationViewModel()
     
@@ -137,6 +137,6 @@ struct ArraysBootcamp: View {
 
 struct ArraysBootcamp_Previews: PreviewProvider {
     static var previews: some View {
-        ArraysBootcamp()
+        ArraysBootcamp_14()
     }
 }

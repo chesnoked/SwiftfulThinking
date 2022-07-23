@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct WeakSelfBootcamp: View {
+struct WeakSelfBootcamp_18: View {
     
     @AppStorage("count") var count: Int?
     
@@ -74,8 +74,8 @@ class WeakSelfSecondScreenViewModel: ObservableObject {
     }
 }
 
-struct WeakSelfBootcamp_Previews: PreviewProvider {
+struct WeakSelfBootcamp_18_Previews: PreviewProvider {
     static var previews: some View {
-        WeakSelfBootcamp()
+        WeakSelfBootcamp_18()
     }
 }

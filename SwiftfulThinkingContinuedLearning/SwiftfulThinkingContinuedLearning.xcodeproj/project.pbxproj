@@ -36,6 +36,7 @@
 		968BF7842888F926005452F5 /* CoreDataRelationshipsBootcamp#16.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968BF7832888F926005452F5 /* CoreDataRelationshipsBootcamp#16.swift */; };
 		968BF7882888FC1D005452F5 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 968BF7862888FC1D005452F5 /* CoreDataContainer.xcdatamodeld */; };
 		969D6DE2288D171B00EDEF8C /* CodableBootcamp#21.swift in Sources */ = {isa = PBXBuildFile; fileRef = 969D6DE1288D171B00EDEF8C /* CodableBootcamp#21.swift */; };
+		96F6D7AA288E132F007546FA /* DownloadWithEscapingBootcamp#22.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F6D7A9288E132F007546FA /* DownloadWithEscapingBootcamp#22.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		968BF7832888F926005452F5 /* CoreDataRelationshipsBootcamp#16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CoreDataRelationshipsBootcamp#16.swift"; sourceTree = "<group>"; };
 		968BF7872888FC1D005452F5 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		969D6DE1288D171B00EDEF8C /* CodableBootcamp#21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CodableBootcamp#21.swift"; sourceTree = "<group>"; };
+		96F6D7A9288E132F007546FA /* DownloadWithEscapingBootcamp#22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DownloadWithEscapingBootcamp#22.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				9607E114288B760E00E9637B /* TypealiasBootcamp#19.swift */,
 				9607E11A288B7A7D00E9637B /* EscapingBootcamp#20.swift */,
 				969D6DE1288D171B00EDEF8C /* CodableBootcamp#21.swift */,
+				96F6D7A9288E132F007546FA /* DownloadWithEscapingBootcamp#22.swift */,
 				9664D96E287EAE0300C34D22 /* Assets.xcassets */,
 				9664D970287EAE0300C34D22 /* Preview Content */,
 			);
@@ -256,6 +259,7 @@
 			files = (
 				9666ED6B2887C16A00399EEC /* FruitsContainer.xcdatamodeld in Sources */,
 				9607E11F288B874E00E9637B /* MagnificationGestureBootcamp#2.swift in Sources */,
+				96F6D7AA288E132F007546FA /* DownloadWithEscapingBootcamp#22.swift in Sources */,
 				9664D96D287EAE0100C34D22 /* ContentView.swift in Sources */,
 				9607E117288B78B500E9637B /* WeakSelfBootcamp#18.swift in Sources */,
 				9607E12A288B892700E9637B /* GeometryReaderBootcamp#6.swift in Sources */,

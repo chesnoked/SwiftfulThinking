@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftfulThinkingContinuedLearningApp: App {
     var body: some Scene {
         WindowGroup {
-            DownloadWithCombine_23()
+            TimerBootcamp_24()
         }
     }
 }

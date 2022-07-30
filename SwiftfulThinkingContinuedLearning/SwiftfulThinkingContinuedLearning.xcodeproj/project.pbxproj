@@ -38,6 +38,7 @@
 		968BF7882888FC1D005452F5 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 968BF7862888FC1D005452F5 /* CoreDataContainer.xcdatamodeld */; };
 		969D6DE2288D171B00EDEF8C /* CodableBootcamp#21.swift in Sources */ = {isa = PBXBuildFile; fileRef = 969D6DE1288D171B00EDEF8C /* CodableBootcamp#21.swift */; };
 		96F6D7AA288E132F007546FA /* DownloadWithEscapingBootcamp#22.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F6D7A9288E132F007546FA /* DownloadWithEscapingBootcamp#22.swift */; };
+		96F897152894D9BD00EF3D69 /* SubscriberBootcamp#25.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F897142894D9BD00EF3D69 /* SubscriberBootcamp#25.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -73,6 +74,7 @@
 		968BF7872888FC1D005452F5 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		969D6DE1288D171B00EDEF8C /* CodableBootcamp#21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CodableBootcamp#21.swift"; sourceTree = "<group>"; };
 		96F6D7A9288E132F007546FA /* DownloadWithEscapingBootcamp#22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DownloadWithEscapingBootcamp#22.swift"; sourceTree = "<group>"; };
+		96F897142894D9BD00EF3D69 /* SubscriberBootcamp#25.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SubscriberBootcamp#25.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +158,7 @@
 				96F6D7A9288E132F007546FA /* DownloadWithEscapingBootcamp#22.swift */,
 				9621B68F28920311009EF70B /* DownloadWithCombine#23.swift */,
 				964CC04B28937501006DA02A /* TimerBootcamp#24.swift */,
+				96F897142894D9BD00EF3D69 /* SubscriberBootcamp#25.swift */,
 				9664D96E287EAE0300C34D22 /* Assets.xcassets */,
 				9664D970287EAE0300C34D22 /* Preview Content */,
 			);
@@ -285,6 +288,7 @@
 				9666ED682887BFC900399EEC /* CoreDataBootcamp#15.swift in Sources */,
 				9607E137288B8B0F00E9637B /* HashableBootcamp#12.swift in Sources */,
 				9621B69028920311009EF70B /* DownloadWithCombine#23.swift in Sources */,
+				96F897152894D9BD00EF3D69 /* SubscriberBootcamp#25.swift in Sources */,
 				9607E135288B8AD800E9637B /* LocalNotificationBootcamp#11.swift in Sources */,
 				9607E115288B760E00E9637B /* TypealiasBootcamp#19.swift in Sources */,
 			);

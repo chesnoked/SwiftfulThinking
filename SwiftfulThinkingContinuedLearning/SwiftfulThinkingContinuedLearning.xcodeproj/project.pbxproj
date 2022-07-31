@@ -37,6 +37,7 @@
 		968BF7842888F926005452F5 /* CoreDataRelationshipsBootcamp#16.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968BF7832888F926005452F5 /* CoreDataRelationshipsBootcamp#16.swift */; };
 		968BF7882888FC1D005452F5 /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 968BF7862888FC1D005452F5 /* CoreDataContainer.xcdatamodeld */; };
 		969D6DE2288D171B00EDEF8C /* CodableBootcamp#21.swift in Sources */ = {isa = PBXBuildFile; fileRef = 969D6DE1288D171B00EDEF8C /* CodableBootcamp#21.swift */; };
+		96BF0DA928961B85004D9D78 /* FileManagerBootcamp#26.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96BF0DA828961B85004D9D78 /* FileManagerBootcamp#26.swift */; };
 		96F6D7AA288E132F007546FA /* DownloadWithEscapingBootcamp#22.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F6D7A9288E132F007546FA /* DownloadWithEscapingBootcamp#22.swift */; };
 		96F897152894D9BD00EF3D69 /* SubscriberBootcamp#25.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F897142894D9BD00EF3D69 /* SubscriberBootcamp#25.swift */; };
 /* End PBXBuildFile section */
@@ -73,6 +74,7 @@
 		968BF7832888F926005452F5 /* CoreDataRelationshipsBootcamp#16.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CoreDataRelationshipsBootcamp#16.swift"; sourceTree = "<group>"; };
 		968BF7872888FC1D005452F5 /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		969D6DE1288D171B00EDEF8C /* CodableBootcamp#21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CodableBootcamp#21.swift"; sourceTree = "<group>"; };
+		96BF0DA828961B85004D9D78 /* FileManagerBootcamp#26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FileManagerBootcamp#26.swift"; sourceTree = "<group>"; };
 		96F6D7A9288E132F007546FA /* DownloadWithEscapingBootcamp#22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DownloadWithEscapingBootcamp#22.swift"; sourceTree = "<group>"; };
 		96F897142894D9BD00EF3D69 /* SubscriberBootcamp#25.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SubscriberBootcamp#25.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -159,6 +161,7 @@
 				9621B68F28920311009EF70B /* DownloadWithCombine#23.swift */,
 				964CC04B28937501006DA02A /* TimerBootcamp#24.swift */,
 				96F897142894D9BD00EF3D69 /* SubscriberBootcamp#25.swift */,
+				96BF0DA828961B85004D9D78 /* FileManagerBootcamp#26.swift */,
 				9664D96E287EAE0300C34D22 /* Assets.xcassets */,
 				9664D970287EAE0300C34D22 /* Preview Content */,
 			);
@@ -283,6 +286,7 @@
 				9607E133288B8A9A00E9637B /* HapticsBootcamp#10.swift in Sources */,
 				9607E121288B87A700E9637B /* RotationGestureBootcamp#3.swift in Sources */,
 				9607E128288B88E800E9637B /* ScrollViewReaderBootcamp#5.swift in Sources */,
+				96BF0DA928961B85004D9D78 /* FileManagerBootcamp#26.swift in Sources */,
 				9607E11B288B7A7D00E9637B /* EscapingBootcamp#20.swift in Sources */,
 				9607E130288B8A2200E9637B /* SoundsBootcamp#9.swift in Sources */,
 				9666ED682887BFC900399EEC /* CoreDataBootcamp#15.swift in Sources */,
